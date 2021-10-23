@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T07:45:21.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ynC13RPSPCyzasXb-lpm" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T07:46:10.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="cOU3I7dWrCsiL9VJBRM6" version="15.5.8" type="github">
   <diagram id="JIcy1WmAaB5OKx7hH1ha" name="Page-1">
     <mxGraphModel dx="881" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="sLHyPztcKtti6kt8zTX5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sLHyPztcKtti6kt8zTX5-1" target="sLHyPztcKtti6kt8zTX5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sLHyPztcKtti6kt8zTX5-1" value="store = FeatureStore(repo_path)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="180" width="200" height="40" as="geometry" />
+        <mxCell id="sLHyPztcKtti6kt8zTX5-1" value="store = FeatureStore(repo_path)&lt;br&gt;&lt;br&gt;初始化FileStore对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="160" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLHyPztcKtti6kt8zTX5-2" value="store.get_historical_features(entity_df, features)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277" y="250" width="274" height="50" as="geometry" />
