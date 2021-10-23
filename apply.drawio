@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T06:07:03.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6MmFFBLi11MWxxyJdHj8" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T06:23:43.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fhXuqTKpZ-KVw3Wda3Li" version="15.5.8" type="github">
   <diagram id="XH8XvSfvo6L3y8ZOdIyX" name="Page-1">
     <mxGraphModel dx="881" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Afwj_Tyet9ZqoIRMlyp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Afwj_Tyet9ZqoIRMlyp-5" target="1Afwj_Tyet9ZqoIRMlyp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Afwj_Tyet9ZqoIRMlyp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Afwj_Tyet9ZqoIRMlyp-5" target="1Afwj_Tyet9ZqoIRMlyp-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Afwj_Tyet9ZqoIRMlyp-5" value="store = FeatureStore(repo_path=str(repo_path))&lt;br&gt;实例化一个FeatureStore对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -115,8 +118,11 @@
         <mxCell id="1Afwj_Tyet9ZqoIRMlyp-44" value="Registry对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="451" width="80" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="1Afwj_Tyet9ZqoIRMlyp-45" value="PassthroughProvider对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="600" width="160" height="30" as="geometry" />
+        <mxCell id="1Afwj_Tyet9ZqoIRMlyp-45" value="PassthroughProvider对象，The Passthrough provider delegates all operations to the underlying online and offline stores." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="600" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Afwj_Tyet9ZqoIRMlyp-46" value="registry._initialize_registry()&lt;br&gt;&lt;br&gt;如果有data/registry.db就不管，没有data/registry.db就初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="658.5" width="200" height="91.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
