@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T06:32:55.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dPFdtM8Y88EsWVfcIO-D" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T06:34:36.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yO6m5E_90begFSaxXBJm" version="15.5.8" type="github">
   <diagram id="XH8XvSfvo6L3y8ZOdIyX" name="Page-1">
-    <mxGraphModel dx="881" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3195" dy="2559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Afwj_Tyet9ZqoIRMlyp-46" value="registry._initialize_registry()&lt;br&gt;&lt;br&gt;如果有data/registry.db就不管，没有data/registry.db就初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="910" width="210" height="91.5" as="geometry" />
+          <mxGeometry x="530" y="910" width="210" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="1Afwj_Tyet9ZqoIRMlyp-48" value="self._get_registry_proto()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="850" width="150" height="60" as="geometry" />
