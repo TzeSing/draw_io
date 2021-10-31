@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T00:51:09.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="HBcYI-SeX-BfV4G-C9pc" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T00:51:57.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6e0zrd6erLwsbW1A5MIo" version="15.5.8" type="github">
   <diagram id="5ehOUJSPmZgA21K67O96" name="Page-1">
     <mxGraphModel dx="730" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="M64wpR-lAA2ifJB79-2L-12" value="倒排词典" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M64wpR-lAA2ifJB79-2L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M64wpR-lAA2ifJB79-2L-13" target="M64wpR-lAA2ifJB79-2L-17">
+        <mxCell id="M64wpR-lAA2ifJB79-2L-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M64wpR-lAA2ifJB79-2L-13" target="M64wpR-lAA2ifJB79-2L-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M64wpR-lAA2ifJB79-2L-13" value="[1, 2, 3, 4, 5, 1, 6, 7]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,8 +49,8 @@
         <mxCell id="M64wpR-lAA2ifJB79-2L-16" value="句子向量化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M64wpR-lAA2ifJB79-2L-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="M64wpR-lAA2ifJB79-2L-17" value="&lt;div&gt;window_size = 2&lt;/div&gt;&lt;div&gt;positive_skip_grams, _ = tf.keras.preprocessing.sequence.skipgrams(&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; example_sequence,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; vocabulary_size=vocab_size,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; window_size=window_size,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; negative_samples=0)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="630" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="M64wpR-lAA2ifJB79-2L-19" value="构建(target_word, context_word)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="610" width="180" height="20" as="geometry" />
