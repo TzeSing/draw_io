@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T00:42:29.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.5.8" etag="koWk1epK7fXGDlIj7lnP" type="github"><diagram id="5ehOUJSPmZgA21K67O96">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-31T00:47:20.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="8vIkQPkfVkQXbZYthBXW" version="15.5.8" type="github">
+  <diagram id="5ehOUJSPmZgA21K67O96" name="Page-1">
+    <mxGraphModel dx="881" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M64wpR-lAA2ifJB79-2L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M64wpR-lAA2ifJB79-2L-1" target="M64wpR-lAA2ifJB79-2L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-1" value="&quot;The wide road shimmered in the hot sun&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-2" value="corpus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M64wpR-lAA2ifJB79-2L-3" target="M64wpR-lAA2ifJB79-2L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-3" value="[&#39;the&#39;, &#39;wide&#39;, &#39;road&#39;, &#39;shimmered&#39;, &#39;in&#39;, &#39;the&#39;, &#39;hot&#39;, &#39;sun&#39;]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="170" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-4" value="分词" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-6" value="{&#39;&amp;lt;pad&amp;gt;&#39;: 0, &#39;the&#39;: 1, &#39;wide&#39;: 2, &#39;road&#39;: 3, &#39;shimmered&#39;: 4, &#39;in&#39;: 5, &#39;hot&#39;: 6, &#39;sun&#39;: 7}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="260" width="425" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M64wpR-lAA2ifJB79-2L-8" value="编码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
