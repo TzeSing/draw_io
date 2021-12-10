@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T08:01:16.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_6dIozIwySiUE2mFjThT" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T08:02:16.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lC3SiIqL7qbP4fkZiZpD" version="15.5.9" type="github">
   <diagram id="gug2wDO362XK-hmROJpa" name="Page-1">
     <mxGraphModel dx="813" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="kfqeV337Y3tk4l-2HDgf-7" value="dwd_db.dwd_log_rec_df" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kfqeV337Y3tk4l-2HDgf-9" value="&lt;div&gt;&#39;app_id&#39;, &#39;device_id_1&#39;, &#39;device_id_2&#39;, &#39;device_id_3&#39;, &#39;log_id&#39;, &#39;launch_id&#39;, &#39;timestamp&#39;, &#39;user_id&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &#39;origin&#39;, &#39;signversion&#39;, &#39;event&#39;, &#39;event_label&#39;, &#39;rec_id&#39;, &#39;show_index&#39;, &#39;rec_index&#39;, &#39;room_code&#39;,&lt;/div&gt;&lt;div&gt;&amp;nbsp;&#39;product_code&#39;, &#39;dynamic_code&#39;, &#39;page_detail&#39;, &#39;nav&#39;, &#39;nav_id&#39;,&#39;tag_model&#39;, &#39;tag&#39;,&lt;/div&gt;&lt;div&gt;&#39;exposure_status&#39;, &#39;exposure_id&#39;, &#39;exposure_page_detail&#39;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="130" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
